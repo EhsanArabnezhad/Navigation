@@ -2,16 +2,9 @@
 #### Udacity Deep Reinforcement Learning Nanodegree
 ### Project 1: Navigation
 # Train an RL Agent to Collect Bananas
-:banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana:
 
 
-<img src="assets/banana_agent.gif" width="60%" align="top-left" alt="" title="Banana Agent" />
-
-*Above: My trained agent in action!*
-
-##### &nbsp;
-
-## Goal
+## Goal of project
 In this project, I build a reinforcement learning (RL) agent that navigates an environment that is similar to [Unity's Banana Collector environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector).
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. The goal of our agent is to collect as many yellow bananas as possible while avoiding blue bananas. In order to solve the environment, our agent must achieve an average score of +13 over 100 consecutive episodes.
